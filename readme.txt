@@ -1,4 +1,4 @@
-=== AT Admin Palette ===
+=== AdrianToro Admin Palette ===
 Contributors: adrianifero
 Tags: admin, dashboard, colors, branding, widgets
 Requires at least: 6.0
@@ -14,7 +14,7 @@ Brand your WordPress admin with your own colors, and curate dashboard widgets. L
 
 https://www.youtube.com/watch?v=7mr7VNq7BGo
 
-AT Admin Palette helps you make the WordPress admin feel like *your* workspace.
+AdrianToro Admin Palette helps you make the WordPress admin feel like *your* workspace.
 
 * **Admin colors** - open a floating color customizer on any admin screen. Pick a starter palette or choose your own colors. Preview live, then save.
 * **Dashboard widgets** - add up to two custom dashboard boxes, choose which roles see them, and optionally hide the default WordPress widgets.
@@ -24,8 +24,8 @@ On install, the admin looks like normal WordPress until you choose a palette.
 == Installation ==
 
 1. Upload the plugin folder to `/wp-content/plugins/`, or install the zip via Plugins → Add New.
-2. Activate **AT Admin Palette**.
-3. Look for the color button in the bottom-right of any admin screen, or go to **Settings → AT Admin Palette**.
+2. Activate **AdrianToro Admin Palette**.
+3. Look for the color button in the bottom-right of any admin screen, or go to **Settings → AdrianToro Admin Palette**.
 
 == Frequently Asked Questions ==
 
@@ -50,7 +50,7 @@ Users with the `manage_options` capability (typically Administrators).
 == Changelog ==
 
 = 1.1.0 =
-* First public release as AT Admin Palette.
+* First public release as AdrianToro Admin Palette.
 * New floating admin color customizer with live preview.
 * Starter palettes and per-token color pickers (menu, admin bar, buttons, links).
 * Settings screen cleaned up; widget options use nonces and a single options array.
